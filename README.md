@@ -1,2 +1,3 @@
-# Smart-Bus-Management-System
-A web-based Smart Bus Management System built with Python and Streamlit, featuring passenger registration, bus route search, digital ticket booking, booking history, and an admin dashboard for managing buses and reservations.
+# Smart Bus Management System with Digital Ticketing
+
+A college microproject prototype built with Python, Streamlit and SQLite.
